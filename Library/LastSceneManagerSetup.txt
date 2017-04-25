@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FX/Scenes/Chapter4_1_Demo.unity
+  isLoaded: 1
+  isActive: 1
